@@ -3,6 +3,3 @@
 
 # Environment
 .env
-
-# Datasets
-resources/datasets/ukaea.csv
