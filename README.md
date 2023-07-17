@@ -15,8 +15,8 @@ In this example, we look at the ability of `twinLab` to model the [desorption](h
 
 Clone the repository and change directory to the project root:
 ```shell
-git clone https://github.com/digiLab-ai/NuclearEnergy.git
-cd NuclearEnergy
+git clone https://github.com/digiLab-ai/FusionEnergy.git
+cd FusionEnergy
 ```
 
 Install the dependencies:
