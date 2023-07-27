@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nuclear_energy"
+name = "fusion_energy"
 version = "0.0.0"
 description = "Using twinLab to create models for processes in nuclear fusion"
 authors = ["Alexander Mead <alexander@digilab.co.uk>"]
@@ -7,9 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.12"
-twinlab = "^1.1.1"
-
-[tool.poetry.group.dev.dependencies]
+twinlab = "^1.2"
 jupyter = "^1.0.0"
 numpy = "^1.24.2"
 matplotlib = "^3.7.1"
