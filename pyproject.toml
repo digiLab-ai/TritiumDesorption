@@ -4,6 +4,7 @@ version = "0.0.0"
 description = "Using twinLab to create models for processes in nuclear fusion"
 authors = ["Alexander Mead <alexander@digilab.co.uk>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
