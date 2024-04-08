@@ -7,11 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-twinlab = "^2.0.0"
+twinlab = "^2.3.0"
 jupyter = "^1.0.0"
 numpy = "^1.24.2"
 matplotlib = "^3.7.1"
 pandas = "^1.5.3"
+streamlit = "^1.33.0"
 
 [build-system]
 requires = ["poetry-core"]
