@@ -1,7 +1,7 @@
 # Tritium Desorption
 
 <center>
-    <img src="./resources/images/Logo.svg" width="300"/>
+    <img src="resources/images/Logo.svg" width="300"/>
 </center>
 
 [![Made by - digiLab](https://img.shields.io/static/v1?label=Made+by&message=digiLab&color=162448)](https://www.digilab.co.uk/) [![Made with - twinLab](https://img.shields.io/static/v1?label=Using&message=twinLab&color=009fe3)](https://twinlab.ai/) ![Emulator](https://img.shields.io/badge/Emulator-7Db928) ![Dataset](https://img.shields.io/badge/Dataset-7Db928) ![Learn](https://img.shields.io/badge/Learn-7Db928) ![Predict](https://img.shields.io/badge/Predict-7Db928) ![Calibrate](https://img.shields.io/badge/Calibrate-7Db928) 
